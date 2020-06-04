@@ -1,4 +1,4 @@
-# P09-Patient-Record-System
+# Patient Record System
 `Binary Search Tree, Recursion 도입`
 
 ## 환자 기록 프로그램
